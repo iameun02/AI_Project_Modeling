@@ -13,7 +13,7 @@
 
 2. 시나리오 기획 
     - 잘된 case  
-      - IT 1개 https://n.news.ßnaver.com/article/020/0003502645?sid=101
+      - IT 1개 https://n.news.naver.com/article/020/0003502645?sid=101
       - 경제지면 1개  https://n.news.naver.com/article/022/0003821532?sid=101
       - 영어 텍스트 1개
      
