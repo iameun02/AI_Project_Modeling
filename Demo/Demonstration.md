@@ -15,13 +15,12 @@
     - 잘된 case  
       - IT 1개 https://n.news.naver.com/article/020/0003502645?sid=101
       - 경제지면 1개  https://n.news.naver.com/article/022/0003821532?sid=101
-      - 영어 텍스트 1개
+
      
     - 개선 필요 case 
       - 너무 긴 텍스트  
-      - 허언증 생성기사
 
 
 3. 비교 모델 <br>
    ChatGPT, BARD, KoBERT
-
+   >> 순서 바꿔보기
