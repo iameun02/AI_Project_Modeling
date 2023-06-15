@@ -22,5 +22,5 @@
 
 
 3. 비교 모델 <br>
-   ChatGPT, BARD, KoBERT
+   ChatGPT, BARD, KoBART
    >> 순서 바꿔보기
